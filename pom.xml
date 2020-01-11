@@ -15,7 +15,11 @@
     <description>microservice-archetype project for Spring Boot</description>
 
     <modules>
-
+        <module>web</module>
+        <module>service</module>
+        <module>domain</module>
+        <module>common</module>
+        <module>client</module>
     </modules>
 
     <properties>
